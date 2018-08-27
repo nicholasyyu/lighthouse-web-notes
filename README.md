@@ -7,7 +7,7 @@
 This repository contains all of the notes taken by [Yang Yu](https://github.com/nicholasyyu/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
 
 ## Table of Contents
-* Week 1(https://github.com/nicholasyyu/lighthouse-web-notes/tree/master/Week_1)
-  * Day 1(https://github.com/nicholasyyu/lighthouse-web-notes/tree/master/Week_1/Day_1)
+* [Week 1](https://github.com/nicholasyyu/lighthouse-web-notes/tree/master/Week_1)
+  * [Day 1](https://github.com/nicholasyyu/lighthouse-web-notes/tree/master/Week_1/Day_1)
 
 
